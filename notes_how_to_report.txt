@@ -1,7 +1,4 @@
 
-
-
-
 Example tree:
 
 project_root/
