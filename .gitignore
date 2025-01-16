@@ -96,7 +96,6 @@ rsconnect/
 
 # quarto files:
 .quarto/
-_report_outputs/
 *.docx
 *.pdf
 *.html
